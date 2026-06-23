@@ -4,7 +4,7 @@
 
 -- Generated for SQL practice: Filter, Sorting, Limiting, joins, aggregates, window functions
 
--- 🧩 The real skill in SQL isn't memorizing syntax — it's knowing which query to reach for.
+-- 🧩 The real skill in SQL isn't memorizing syntax, It's knowing which query to reach for.
 
 -- While practicing on a simulated e-commerce database, I started mapping business questions to the right SQL approach:
 
