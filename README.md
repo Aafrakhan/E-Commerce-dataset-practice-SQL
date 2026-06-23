@@ -1,5 +1,3 @@
--- ============================================================
 -- E-commerce Practice Database (2026 Edition)
 -- Customers: 60 | Products: 55 | Orders: 850
 -- Generated for SQL practice: Filter, Sorting, Limiting, joins, aggregates, window functions
--- ============================================================
